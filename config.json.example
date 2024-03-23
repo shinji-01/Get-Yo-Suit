@@ -1,0 +1,13 @@
+{
+  "jacket": {
+    "shoulders": "44-46",
+    "sleeves": "60-62",
+    "length": "70-72"
+  },
+  "pants": {
+    "width": "40-42",
+    "fork": "22-24",
+    "leg_opening": "20-26",
+    "length": "98-102"
+  }
+}
